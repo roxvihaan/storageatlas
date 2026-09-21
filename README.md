@@ -2,6 +2,10 @@
 
 A native macOS SwiftUI app that turns a folder into an interactive 3D storage map.
 
+![Storage Atlas onboarding](screenshots/storage-atlas-onboarding.png)
+
+![Storage Atlas interactive 3D folder map](screenshots/storage-atlas-map.png)
+
 ## Features
 
 - True 3D SceneKit treemap embedded in SwiftUI
